@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/questionandanswer/static/css/main.16dad03f.css",
+    "main.js": "/questionandanswer/static/js/main.67eee9cb.js",
+    "index.html": "/questionandanswer/index.html",
+    "main.16dad03f.css.map": "/questionandanswer/static/css/main.16dad03f.css.map",
+    "main.67eee9cb.js.map": "/questionandanswer/static/js/main.67eee9cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16dad03f.css",
+    "static/js/main.67eee9cb.js"
+  ]
+}
